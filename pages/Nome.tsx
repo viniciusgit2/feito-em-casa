@@ -1,11 +1,7 @@
 export default function  Nome(){
     const nome=String
-    return  newFunction()   
+    return  ("vini")
     
 
 
-    function newFunction() {
-        return new nome("vini")       
-    
-    }
-   }
+}

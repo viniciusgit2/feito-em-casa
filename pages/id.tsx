@@ -1,4 +1,4 @@
-export default function id(){
+export default function Id(): number{
       const id=Number
   
     return id(0)
