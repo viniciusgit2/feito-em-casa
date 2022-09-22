@@ -1,4 +1,4 @@
-export default function  idade(){
+export default function Idade(){
  const idade=Number
- return(26)   
+ return (26)
 }

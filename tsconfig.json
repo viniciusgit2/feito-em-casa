@@ -103,7 +103,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/id.tsx", "pages/Tabela.tsx"  ],
+, "pages/id.tsx", "pages/tabela.tsx"  ],
   "exclude": [
     "node_modules"
   ]
