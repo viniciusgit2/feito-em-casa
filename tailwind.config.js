@@ -1,16 +1,16 @@
 /** @type {import('tailwindcss').Config} */
 
 module.exports = {
-
+  
     plugins: {
       'postcss-import': {},
       tailwindcss: {},
       autoprefixer: {},
-      
+
     }
   
- , content: ["./src/**/*.{html,js}"],  presets: [],
-  darkMode: 'media', // or 'class'
+ , content: ["./**/*.{html,js}"],  presets: [],
+  darkMode: 'class', // or 'class'
   theme: {
     screens: {
       sm: '640px',

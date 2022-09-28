@@ -1,11 +1,4 @@
-export interface botoes{
-cor1:'green'
-  cor2:'red'
-  classname?:String
-}
-export default function botoes(botoes:any){
-  return(
-  <button className="{cor1}">OI</button>
-  )
 
+export default  function Botoes(){
+  return(<button  className="bg-red-500">oi</button>)
 }
