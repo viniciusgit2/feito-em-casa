@@ -1,4 +1,4 @@
-export default function Titulo(){
-    return (<div><h1>meu titulo</h1></div>)
+export default function Titulo(): JSX.Element{
+    return (<div><h1>cadastro simples</h1></div>)
     
 }
